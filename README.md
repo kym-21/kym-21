@@ -19,5 +19,11 @@ Beyond frontend development, I explore **cybersecurity tools** like scapy 🔐 a
 - ☕ Coffee fuels my coding sessions  
 - 🎬 Anime fan — Code Geass is a favorite  
 - 🔍 I love reverse‑engineering code and UIs to understand how things work  
-- 🛠️ I enjoy building solutions that balance simplicity with technical depth  
-- ⚡ Persistent problem‑solver: I’ll chase down bugs until they’re gone
+- ⚙️ I enjoy building solutions that balance simplicity with technical depth  
+- 🧠 Persistent problem‑solver: I'll chase down bugs until they're gone  
+
+---
+
+## What I’m Looking For
+I’m open to opportunities in **frontend development, creative UI engineering, and problem‑solving roles**.  
+I enjoy working on projects that combine **clean design, technical depth, and real‑world impact**.  
