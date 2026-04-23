@@ -9,7 +9,7 @@ Beyond frontend development, I explore **cybersecurity tools** like scapy 🔐 a
 ---
 
 ## Tools & Tech
-- React, TypeScript, HTML, CSS  
+- React, TypeScript, HTML, CSS, Node.js, Python  
 - GitHub, Vercel, VS Code  
 - Cybersecurity practice with Python tools  
 
