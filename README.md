@@ -11,6 +11,7 @@ I also enjoy experimenting with creative web animations 🎨 and practicing cybe
 ---
 
 **A Bit About Me**
+
 • 🔍 I sometimes reverse‑engineer apps just to see how they tick  
 • ⚡ I’ll spend hours fixing a bug, then celebrate like I won a trophy  
 • 🎨 I get obsessed with tiny UI details — like button hover effects nobody notices  
