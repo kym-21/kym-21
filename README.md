@@ -1,22 +1,4 @@
-## Hey there! 👋
-
-<!--
-**kym-21/kym-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-Hey there! 👋
+Hey there 👋
 
 I'm [Brian Kym](https://kym-21.github.io/portfolio/), a developer based in Kenya.  
 
@@ -28,8 +10,9 @@ I also enjoy experimenting with creative web animations 🎨 and practicing cybe
 
 ---
 
-**Fun Facts:**
-- I love reverse‑engineering code and UI for learning 🔍  
-- Always experimenting with new web effects ✨  
-- I’m the go‑to troubleshooter when tech breaks ⚡  
-- Hobbies: coding, problem‑solving, and building things 🛠️
+**A Bit About Me**
+• 🔍 I sometimes reverse‑engineer apps just to see how they tick  
+• ⚡ I’ll spend hours fixing a bug, then celebrate like I won a trophy  
+• 🎨 I get obsessed with tiny UI details — like button hover effects nobody notices  
+• 🛠️ I enjoy building things that feel simple, useful, and a little different  
+• 😅 I’ve been known to break my own code just to learn how to fix it
