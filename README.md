@@ -16,7 +16,8 @@ Here you’ll find the work I’m experimenting with, learning from, and buildin
 ---
 
 **A Bit About Me**
-- 🔍 I love reverse‑engineering code and UI just to see how things tick  
-- ✨ I get obsessed with tiny UI details — hover effects nobody notices  
-- ⚡ I’ll spend hours fixing a bug, then celebrate like I won a trophy  
-- 🛠️ I enjoy building things that are simple, useful, and a little different
+- ☕ Very much a coffee person  
+- 🎬 Into anime — Code Geass is a favorite  
+- 🔍 I love reverse‑engineering code and UIs just to see how they tick  
+- 🛠️ I enjoy building things that range from simple and elegant to complex and challenging
+
