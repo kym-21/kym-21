@@ -1,23 +1,23 @@
-Hey there 👋  
-I'm [kym](https://kym-21.github.io/portfolio/), a developer based in Kenya.
+# Hey there 👋  
+I'm [Kym](https://kym-21.github.io/portfolio/), a developer based in Kenya.
 
-I mostly work on web stuff — React, TypeScript, HTML, CSS — and I like experimenting with creative animations 🎨.  
-On the side, I practice cybersecurity tools like scapy 🔐 and enjoy troubleshooting when tech breaks ⚡.
+I specialize in building modern web applications with **React, TypeScript, HTML, and CSS**.  
+I’m passionate about creating solutions that are both **simple and elegant**, while also tackling **complex challenges** that push me to learn and grow.  
 
-Here you’ll find the work I’m experimenting with, learning from, and building — everything coded from the ground up. ✨
+Beyond frontend development, I explore **cybersecurity tools** like scapy 🔐 and enjoy troubleshooting workflows to make systems more reliable ⚡.
 
 ---
 
-**Tools & Tech**
+## Tools & Tech
 - React, TypeScript, HTML, CSS  
-- Cybersecurity practice with Python tools  
 - GitHub, Vercel, VS Code  
+- Cybersecurity practice with Python tools  
 
 ---
 
-**A Bit About Me**
-- ☕ Very much a coffee person  
-- 🎬 Into anime — Code Geass is a favorite  
-- 🔍 I love reverse‑engineering code and UIs just to see how they tick  
-- 🛠️ I enjoy building things that range from simple and elegant to complex and challenging
-
+## A Bit About Me
+- ☕ Coffee fuels my coding sessions  
+- 🎬 Anime fan — Code Geass is a favorite  
+- 🔍 I love reverse‑engineering code and UIs to understand how things work  
+- 🛠️ I enjoy building solutions that balance simplicity with technical depth  
+- ⚡ Persistent problem‑solver: I’ll chase down bugs until they’re gone
