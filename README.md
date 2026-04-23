@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I'm [Brian](https://kym-21.github.io/portfolio/), a developer based in Kenya.  
+I'm [Brian Kym](https://kym-21.github.io/portfolio/), a developer based in Kenya.  
 
 I design and build whatever I can imagine.  
 If an idea pops into my head, chances are I'll code it and ship it. 🚀
